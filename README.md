@@ -1,6 +1,5 @@
 # AgentGuard
 
-A working local prototype for PS 04: Build the AI System Behind the AI,
 Hacktoberfest Hack Day Bengaluru 2026.
 
 AgentGuard sits between an agent's proposed tool call and the filesystem.
